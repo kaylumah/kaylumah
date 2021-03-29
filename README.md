@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![Kaylumah Logo](logo.svg)
+
+---
+Welcome to my GitHub profile. You can find the source code for my blog posts and some of my projects.
+
+If you have any questions regarding my work, please reach out on my Twitter that you can find under [@kaylumah](https://twitter.com/kaylumah).
+
+
 <!--
 **maxhamulyak/maxhamulyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
