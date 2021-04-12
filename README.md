@@ -7,6 +7,9 @@ Welcome to my GitHub profile. You can find the source code for my blog posts and
 
 If you have any questions regarding my work, please reach out on my Twitter that you can find under [@kaylumah](https://twitter.com/kaylumah).
 
+![Kaylumah's Stats](https://github-readme-stats.vercel.app/api?username=Kaylumah&show_icons=true)
+
+
 
 <!--
 **maxhamulyak/maxhamulyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
