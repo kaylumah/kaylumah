@@ -9,7 +9,9 @@ If you have any questions regarding my work, please reach out on my Twitter that
 
 ![Kaylumah's Stats](https://github-readme-stats.vercel.app/api?username=Kaylumah&show_icons=true)
 
-
+#### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **maxhamulyak/maxhamulyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
