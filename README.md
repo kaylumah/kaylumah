@@ -8,7 +8,7 @@ Welcome to my GitHub profile. You can find the source code for my blog posts and
 If you have any questions regarding my work, please reach out on my Twitter that you can find under [@kaylumah](https://twitter.com/kaylumah).
 
 <!-- #### Skills
-
+![C#](https://img.shields.io/static/v1?style=for-the-badge&logo=c-sharp&message=CSharp&label=&color=fedcba&labelColor=abcdef)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000) -->
 
 #### Blog posts
