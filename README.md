@@ -13,6 +13,19 @@ If you have any questions regarding my work, please reach out on my Twitter that
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+#### 🤝🏻 &nbsp;Connect with me
+
+<a href="https://kaylumah.nl">
+    <img src="https://img.shields.io/badge/-kaylumah.nl-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/maxhamulyak">
+    <img src="https://img.shields.io/badge/-maxhamulyak-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:max@kaylumah.nl">
+    <img src="https://img.shields.io/badge/-max@kaylumah.nl-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+
+
 ---
 ![Made with love in Netherlands](https://madewithlove.now.sh/nl?heart=true&template=for-the-badge)
 
