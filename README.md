@@ -7,6 +7,10 @@ Welcome to my GitHub profile. You can find the source code for my blog posts and
 
 If you have any questions regarding my work, please reach out on my Twitter that you can find under [@kaylumah](https://twitter.com/kaylumah).
 
+<!-- #### Skills
+
+![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000) -->
+
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Experiment with Moq, an approach to writing mocks](https://kaylumah.nl/2021/04/11/an-approach-to-writing-mocks.html)
@@ -38,6 +42,7 @@ If you have any questions regarding my work, please reach out on my Twitter that
 ---
 ![Made with love in Netherlands](https://madewithlove.now.sh/nl?heart=true&template=for-the-badge)
 
+<img src="https://profile-counter.glitch.me/kaylumah/count.svg" />
 
 
 
