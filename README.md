@@ -25,3 +25,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+
+https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+
+https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
+
+https://dev.to/diogorodrigues/creating-amazing-github-profiles-readme-5h31
+
+https://github.com/coderjojo/creative-profile-readme
+
+https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
