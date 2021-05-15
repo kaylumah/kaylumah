@@ -14,16 +14,7 @@ If you have any questions regarding my work, please reach out on my Twitter that
 
 <!-- https://github.com/gustavoSoriano/gustavoSoriano -->
 
-https://www.linkedin.com/in/maxhamulyak/
 
-https://twitter.com/kaylumah
-
-<a href="https://www.linkedin.com/in/gustavo-soriano-7326b9130">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sorianox2013@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 
 

@@ -23,14 +23,15 @@ If you have any questions regarding my work, please reach out on my Twitter that
 
 #### 🤝🏻 &nbsp;Connect with me
 
-<a href="https://kaylumah.nl">
-    <img src="https://img.shields.io/badge/-kaylumah.nl-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/maxhamulyak">
-    <img src="https://img.shields.io/badge/-maxhamulyak-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+<!-- 
+ TODO twitter, dev.to, website
+-->
+
+<a href="https://www.linkedin.com/in/maxhamulyak/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:max@kaylumah.nl">
-    <img src="https://img.shields.io/badge/-max@kaylumah.nl-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 
