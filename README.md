@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-![Kaylumah Logo](logo.svg)
+<p align="center">
+  <img alt="Kaylumah Logo" width="460" height="300" src="meta/resources/logo.svg">
+</p>
 
 ---
+
 Welcome to my GitHub profile. You can find the source code for my blog posts and some of my projects.
 
 If you have any questions regarding my work, please reach out on my Twitter that you can find under [@kaylumah](https://twitter.com/kaylumah).
