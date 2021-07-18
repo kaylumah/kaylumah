@@ -16,11 +16,11 @@ If you have any questions regarding my work, please reach out on my Twitter that
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Decreasing Solution Build time with Filters](https://kaylumah.nl/2021/07/17/decreasing-solution-build-time-with-filters.html)
 - [Generate C# client for OpenAPI](https://kaylumah.nl/2021/05/23/generate-csharp-client-for-openapi.html)
 - [Experiment with Moq, an approach to writing mocks](https://kaylumah.nl/2021/04/11/an-approach-to-writing-mocks.html)
 - [Set NuGet metadata via MSBuild](https://kaylumah.nl/2021/03/27/set-nuget-metadata-via-msbuild.html)
 - [Guiding my thoughts home](https://kaylumah.nl/2020/08/01/kaylumah-the-new-home-for-blogs-written-by-max-hamulyak.html)
-- [Using C# code in your git hooks](https://kaylumah.nl/2019/09/07/using-csharp-code-your-git-hooks.html)
 <!-- BLOG-POST-LIST:END -->
 
 #### GitHub stats
