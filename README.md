@@ -16,11 +16,11 @@ If you have any questions regarding my work, please reach out on my Twitter that
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with Azure SDK for .NET](https://kaylumah.nl/2022/02/21/working-with-azure-sdk-for-dotnet.html)
+- [Improve Code Quality with BannedSymbolAnalyzers](https://kaylumah.nl/2022/01/31/improve-code-quality-with-bannedsymbolanalyzers.html)
 - [Validated Strongly Typed IOptions](https://kaylumah.nl/2021/11/29/validated-strongly-typed-ioptions.html)
 - [Capture Logs in Unit Tests](https://kaylumah.nl/2021/11/14/capture-logs-in-unit-tests.html)
 - [Decreasing Solution Build time with Filters](https://kaylumah.nl/2021/07/17/decreasing-solution-build-time-with-filters.html)
-- [Generate C# client for OpenAPI](https://kaylumah.nl/2021/05/23/generate-csharp-client-for-openapi.html)
-- [Experiment with Moq, an approach to writing mocks](https://kaylumah.nl/2021/04/11/an-approach-to-writing-mocks.html)
 <!-- BLOG-POST-LIST:END -->
 
 #### GitHub stats
