@@ -16,11 +16,11 @@ If you have any questions regarding my work, please reach out on my Twitter that
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate C# client for OpenAPI - Revisited](https://kaylumah.nl/2023/04/14/csharp-client-for-openapi-revistted.html)
 - [How to use Azurite for testing Azure Storage in dotnet?](https://kaylumah.nl/2022/09/17/how-to-use-azurite-for-testing-azure-storage-in-dotnet.html)
 - [Share debug configuration between .NET IDEs with launch profiles](https://kaylumah.nl/2022/06/07/share-debug-configuration-with-launch-profiles.html)
 - [Working with Azure SDK for .NET](https://kaylumah.nl/2022/02/21/working-with-azure-sdk-for-dotnet.html)
 - [Improve Code Quality with BannedSymbolAnalyzers](https://kaylumah.nl/2022/01/31/improve-code-quality-with-bannedsymbolanalyzers.html)
-- [Validated Strongly Typed IOptions](https://kaylumah.nl/2021/11/29/validated-strongly-typed-ioptions.html)
 <!-- BLOG-POST-LIST:END -->
 
 #### GitHub stats
